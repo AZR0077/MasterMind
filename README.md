@@ -10,3 +10,5 @@ Contains seven files:
   - Gamelab API file
   - HTML website file
   - Two p5play engine files
+
+![MasterMind](https://github.com/AZR0077/MasterMind/assets/146452766/1bf638a1-3e8f-463a-ade0-2a57971a3244)
